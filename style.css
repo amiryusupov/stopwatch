@@ -20,7 +20,7 @@ button{
     background-color: #fff;
     color: #000;
     cursor: pointer;
-    font-size: 20px;
+    font-size: 70px;
     border: 3px solid blue;
     margin: 0 20px;
     transition: all 0.3s ease;
@@ -31,8 +31,13 @@ button:hover {
     border: 3px solid #000;
 }
 .time{
-    font-size: 50px;
+    font-size: 130px;
 }
 .time-number {
-    font-size: 30px;
+    font-size: 100px;
+}
+p {
+    font-size: 20px;
+    position: absolute;
+    bottom: 3%;
 }
