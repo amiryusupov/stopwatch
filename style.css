@@ -16,13 +16,13 @@
     margin: 20px 0;
 }
 button{
-    padding: 15px 30px;
+    padding: 12px 24px;
     background-color: #fff;
     color: #000;
     cursor: pointer;
-    font-size: 70px;
+    font-size: 17px;
     border: 3px solid blue;
-    margin: 0 20px;
+    margin: 0 5px;
     transition: all 0.3s ease;
 }
 button:hover {
@@ -31,13 +31,12 @@ button:hover {
     border: 3px solid #000;
 }
 .time{
-    font-size: 130px;
+    font-size: 55px;
 }
 .time-number {
-    font-size: 100px;
+    font-size: 40px;
 }
 p {
-    font-size: 20px;
     position: absolute;
     bottom: 3%;
 }
